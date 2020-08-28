@@ -1,4 +1,4 @@
-# Image-Clustering-and-AutoEncoder
+# Image-Clustering-and-Denoising using AutoEncoder
 
 * The task is to classify images of wild animals either by clustering or by nearest vector such as pairwise distances. 
 * The Task has appx 4700+ images. 
