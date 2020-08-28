@@ -7,3 +7,4 @@
 * The Clustering part-I has details about Agglomerative Clustering, Pairwise Distance retreival of given image and DBSCAN Techniques and the results are good comparitively to part-II.
 * The Clustering part-II has etails about Kmeans Clustering and its techniques although the results are satisfactory.
 * Also the AutoEncoder Model has been saved and uploaded for reference.
+![alt text](https://github.com/bharathbhimshetty/Image-Clustering-and-AutoEncoder/blob/master/Sample%20denoising%20image.JPG?raw=true)
