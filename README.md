@@ -11,12 +11,12 @@
 
 ![alt text](https://github.com/bharathbhimshetty/Image-Clustering-and-AutoEncoder/blob/master/Sample%20denoising%20image.JPG?raw=true)
 
-* A sample of image vectors taken from AutoEncoder and PairwiseDistance is used as metric to retrive similar images
+* A sample of image vectors taken from AutoEncoder and PairwiseDistance is used as metric to retrive similar images, but due to architecture design from scrath, this the best I can do.
 
-* Image -I (Tiger)
+* Image -I (Tiger is input image and similar 10 images have to be retrieved and here are the results)
 
 ![alt text](https://github.com/bharathbhimshetty/Image-Clustering-and-AutoEncoder/blob/master/sample%20image%20retrieval.JPG?raw=true)
 
-* Image-II (Fox)
+* Image-II (Fox is input image and similar 10 images have to be retrieved and here are the results)
 
 ![alt text](https://github.com/bharathbhimshetty/Image-Clustering-and-AutoEncoder/blob/master/sample%20image%20retrieval%202.JPG?raw=true)
