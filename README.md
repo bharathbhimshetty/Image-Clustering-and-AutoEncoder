@@ -15,7 +15,7 @@
 
 ### Image -I (Tiger is input image and similar 10 images have to be retrieved and here are the results)
 
-![alt text](https://github.com/bharathbhimshetty/Image-Clustering-and-AutoEncoder/blob/master/sample%20image%20retrieval.JPG?raw=true)
+![alt text](https://github.com/bharathbhimshetty/Image-Clustering-and-AutoEncoder/blob/master/Tiger.JPG?raw=true)
 
 ### Image-II (Fox is input image and similar 10 images have to be retrieved and here are the results)
 
